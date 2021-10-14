@@ -1,0 +1,33 @@
+var json_Fasilitas_Kesehatan_19 = {
+"type": "FeatureCollection",
+"name": "Fasilitas_Kesehatan_19",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": "1", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.02329740415189, -10.830642710592599 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "2", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.062853980926548, -10.82981680560107 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "3", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.012409118785854, -10.812243822594269 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "4", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.190344957953471, -10.810350120161843 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "5", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.093989285377234, -10.808073650978145 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "6", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.13758350157741, -10.801506402998029 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "7", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.159931709281068, -10.786128557187112 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "8", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.100082070830922, -10.775088833183077 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "9", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.212431989944434, -10.768072687704318 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "10", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.032928482263742, -10.750921646816494 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "11", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.044993082664746, -10.747750067111838 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "12", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.239731782096101, -10.746800386628479 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "13", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.24318967266538, -10.73919271207393 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "14", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.108889672120768, -10.732749543556565 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "15", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.047945780873192, -10.728858187855053 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "16", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.285764859860478, -10.713972256814145 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "17", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.163357411315587, -10.712232163083797 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "18", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.346468241815955, -10.682685840179317 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "19", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.113411931915152, -10.672952892262117 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "20", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.150913634256881, -10.66015184063491 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "21", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.234392261593712, -10.631343191135329 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "22", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.291724568134327, -10.615802473605243 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "23", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.382958533309761, -10.613354859838864 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "24", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.25844690500071, -10.580423923125522 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "25", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.376272019937801, -10.567635515066911 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "26", "NAMOBJ": null, "REMARK": "Rumah Sakit Khusus" }, "geometry": { "type": "Point", "coordinates": [ 123.312680833953436, -10.56040853612501 ] } }
+]
+}
